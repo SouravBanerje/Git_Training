@@ -1,3 +1,4 @@
 Dev (Plan, Code, Build and Test)
 Ops (Deploy, Operate and Monitor)
-CI and CD
+CI and CD 
+Checking SSH
