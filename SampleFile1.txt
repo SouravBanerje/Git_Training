@@ -1,2 +1,7 @@
 This is Sample File 1
+
 checking checking Merging 
+
+
+Test reset 1
+This is Comparion lecture
