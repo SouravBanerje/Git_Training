@@ -5,3 +5,4 @@ checking checking Merging
 
 Test reset 1
 This is Comparion lecture
+This is Stash lecture, Change in File 1
